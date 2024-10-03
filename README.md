@@ -6,21 +6,8 @@ This project implements Stable Diffusion from scratch using PyTorch, based on th
 ## Features
 
 - Text-to-Image generation
-- Image-to-Image transformation
-- Inpainting capability
-- Classifier-Free Guidance
 - Implementation of U-Net architecture
 - Latent Diffusion Model approach
-
-## Prerequisites
-
-- Python 3.7 or higher
-- PyTorch
-- Basic understanding of:
-  - Probability and statistics
-  - Neural networks
-  - Attention mechanisms
-  - Convolutional layers
 
 ## Installation
 
