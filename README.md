@@ -26,8 +26,8 @@ This project implements Stable Diffusion from scratch using PyTorch, based on th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pytorch-stable-diffusion.git
-cd pytorch-stable-diffusion
+git clone https://github.com/codernothacker/Stable_Diffusion.git
+cd STABLE_DIFFUSION
 ```
 
 2. Install required dependencies:
