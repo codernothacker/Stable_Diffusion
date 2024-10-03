@@ -41,22 +41,23 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-```
-pytorch-stable-diffusion/
+STABLE_DIFFUSION/
 ├── data/
-│   ├── vocab.json
 │   ├── merges.txt
-│   └── v1-5-pruned-emaonly.ckpt
-├── src/
-│   ├── unet.py
-│   ├── vae.py
+│   ├── v1-5-pruned-emaonly.ckpt
+│   └── vocab.json
+├── images/
+│   └── dog.jpg
+├── sd/
+│   ├── attention.py
 │   ├── clip.py
-│   ├── scheduler.py
-│   └── utils.py
-├── examples/
-├── requirements.txt
-└── README.md
-```
+│   ├── decoder.py
+│   ├── diffusion.py
+│   ├── encoder.py
+│   └── pipeline.py
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 ## Usage
 
