@@ -27,7 +27,7 @@ pip install -r requirements.txt
    - Download `v1-5-pruned-emaonly.ckpt` from [Hugging Face](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main) and save it in the `data` folder
 
 ## Project Structure
-
+```
 STABLE_DIFFUSION/
 ├── data/
 │   ├── merges.txt
@@ -45,7 +45,7 @@ STABLE_DIFFUSION/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
+```
 ## Usage
 
 ```python
